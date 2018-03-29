@@ -21,3 +21,6 @@ Le système pourrait être livré selon une approche par étapes:
 10. Ajoutez la possibilité de prendre des captures d'écran des comptes dans le cadre du processus de vérification de statut. Les captures d'écran doivent être incluses dans la charge utile de l'API REST
 11. L'API REST peut vérifier l'état des comptes Archive.org
 12. L'API REST peut vérifier l'état des comptes Justpasteit
+
+###sources
+https://www.youtube.com/watch?v=7SWVXPYZLJM
